@@ -7,3 +7,6 @@ console.log(4+5);
 
 cons = 4;
 const = hello;
+
+hello();
+
